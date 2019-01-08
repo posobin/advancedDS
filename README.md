@@ -1,7 +1,7 @@
 # COMSE6998 Advanced Data Structures
 
 Welcome to COMSE6998 Advanced Data Structures!  There will be ~12 lectures, 1 per week. 
-The course will cover data structures for 4 main data types: Integers, Geometric data, Strings 
+The course will cover data structures in 4 main topics: Integers, Geometry, Strings (information retrieval)
 and Graphs. We will split the time between upper and lower bounds in various models of memory.  
 
 ## Syllabus:
@@ -10,12 +10,14 @@ and Graphs. We will split the time between upper and lower bounds in various mod
 3. Dynamic optimality conjecture (geometric view, Arboral sets, Wilber's LB, Tango Trees). 
 4. Predecessor search UBs on the RAM: van-Emde Boas Trees and Fusion Trees (stratified trees, Indirection). 
 5. Predecessor search LB via Round-Elimination (asymmetric communication complexity paradigm). 
-6. Near-Neighbor Search (locality-sensitive hashing, LBs via lopsided set disjointness, Cell-Sampling). 
-7. Orthogonal Range Counting (Range Trees, Fractional Cascading, Dynamization via BB[a] Trees). 
-8. Tight LBs for dynamic Range Counting in 1D and 2D (Chronogram method + dynamic Cell Sampling). 
+6. Near-Neighbor Search (locality-sensitive hashing, Dynamization via Segment Trees, LBs from 
+lopsided set disjointness and metric embeddings, Cell-Sampling). 
+7. Orthogonal Range Counting (Layered Range Trees, Fractional Cascading, Dynamization via BB[a] Trees, 
+delaying updates via Buffer Trees). 
+8. Tight LBs for dynamic Range Counting in 1D and 2D (Chronogram method, dynamic Cell Sampling). 
 9. Dictionaries and Hashing (Perfect Hashing, Cuckoo Hashing, dynamic dictionaries). 
 10. Succinct DS for Information Retrieval (Suffix arrays, compressed pattern matching, Rank UB/LB). 
-11. Dynamic undirected connectivity (Link-Cut Trees, Euler Trees, Distance Oracles). 
+11. Dynamic undirected connectivity (Link-Cut Trees, Euler-Tour Trees, Distance Oracles). 
 12. Tight LB for undirected connectivity (Information-Transfer method). The "Multiphase" Conjecture. 
 
 
