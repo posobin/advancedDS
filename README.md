@@ -1,4 +1,5 @@
-# COMSE6998 Advanced Data Structures
+# COMSE6998 
+# Advanced Data Structures
 
 Welcome to COMSE6998 Advanced Data Structures!  There will be ~12 lectures, 1 per week. 
 The course will cover data structures in 4 main topics: Integers, Geometry, Strings (information retrieval)
