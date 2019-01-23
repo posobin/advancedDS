@@ -1,9 +1,13 @@
 # COMSE6998 
 # Advanced Data Structures
 
-Welcome to COMSE6998 Advanced Data Structures!  There will be ~12 lectures, 1 per week. 
-The course will cover data structures in 4 main topics: Integers, Geometry, Strings (information retrieval)
-and Graphs. We will split the time between upper and lower bounds in various models of memory.  
+Welcome to COMSE6998 Advanced Data Structures!  
+
+Time: Thursdays, 10:00-12:00. 
+Location: 963 Schermerhorn Hall Extension. 
+
+The course will cover data structures in 4 main themes: Integers, Geometry, Graphs and Strings 
+(information retrieval). We will spend time on both upper and lower bounds in various memory models.  
 
 ## Syllabus:
 1. Introduction (Motivation, DS and memory models, static/dynamic, performance guarantees). 
@@ -28,9 +32,13 @@ delaying updates via Buffer Trees).
 - Advanced data structures (by Peter Brass. Open access e-book available on the web).
 - Advanced Data Strucutres course at MIT (by Erik Demaine)
 
+## Data Structure Simulator:  
+https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
+
+
 ## Logistics:  
-There will be bi-weekly homeworks (~5-6 in total). Grading will be based on HW (20%), scribing 
-1 lecture (15%) and a final project (65%), which will entail exploring and extending a research 
+There will be bi-weekly homeworks (~5-6 in total). Grading will be based on HW (35%), scribing 
+1 lecture (15%) and a final project (50%), which will entail exploring and extending a research 
 paper of your choice (to be discussed and approved by the instructor and the TAs). 
 
 TA: Gleb Posobin (Room : 522 CSB. Office Hours: TBA) 
