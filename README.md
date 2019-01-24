@@ -41,6 +41,6 @@ There will be bi-weekly homeworks (~5-6 in total). Grading will be based on HW (
 1 lecture (15%) and a final project (50%), which will entail exploring and extending a research 
 paper of your choice (to be discussed and approved by the instructor and the TAs). 
 
-TA: Gleb Posobin (Room : 522 CSB. Office Hours: TBA) 
+TA: Gleb Posobin (Room : 522 CSB. Office Hours: Tuesday 3−5pm) 
 
 Instructor: Omri Weinstein (523 CSB. Office Hours: By appointment). 
