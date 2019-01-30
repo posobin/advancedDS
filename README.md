@@ -33,7 +33,7 @@ delaying updates via Buffer Trees).
 - Advanced Data Strucutres course at MIT (by Erik Demaine)
 
 ## Data Structure Simulator:  
-[https://www.cs.usfca.edu/~galles/visualization/RedBlack.html](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+[https://www.cs.usfca.edu/~galles/visualization/RedBlack.html](https://www.cs.usfca.edu/~galles/visualization)
 
 
 ## Logistics:  
