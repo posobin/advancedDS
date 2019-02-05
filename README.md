@@ -7,7 +7,11 @@ Time: Thursdays, 10:00-12:00.
 Location: 963 Schermerhorn Hall Extension. 
 
 The course will cover data structures in 4 main themes: Integers, Geometry, Graphs and Strings 
-(information retrieval). We will spend time on both upper and lower bounds in various memory models.  
+(information retrieval). We will spend time on both upper and lower bounds in various memory models.
+
+## Assignments
+Submit to CourseWorks.
+1. [First homework](./advancedDS_hw1.pdf), due February 21st (Thursday) at 6pm.
 
 ## Syllabus:
 1. Introduction (Motivation, DS and memory models, static/dynamic, performance guarantees). 
