@@ -13,6 +13,10 @@ The course will cover data structures in 4 main themes: Integers, Geometry, Grap
 Submit to CourseWorks.
 1. [First homework](./advancedDS_hw1.pdf), due February 21st (Thursday) at 6pm.
 
+## Lecture notes
+1. [Lecture #1.](./advancedDS_lec1.pdf)
+2. [Lecture #2.](./advancedDS_lec2.pdf)
+
 ## Syllabus:
 1. Introduction (Motivation, DS and memory models, static/dynamic, performance guarantees). 
 2. Advanced binary search trees (BST model of computation, instance optimality, Splay Trees). 
