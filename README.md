@@ -14,10 +14,10 @@ Submit to CourseWorks.
 1. [First homework](./advancedDS_hw1.pdf), due February 21st (Thursday) at 6pm.
 
 ## Lecture notes
-1. [Lecture #1.](./advancedDS_lec1.pdf)
-2. [Lecture #2.](./advancedDS_lec2.pdf)
+1. [Lecture 1.](./advancedDS_lec1.pdf)
+2. [Lecture 2.](./advancedDS_lec2.pdf)
 
-## Syllabus:
+## Syllabus
 1. Introduction (Motivation, DS and memory models, static/dynamic, performance guarantees). 
 2. Advanced binary search trees (BST model of computation, instance optimality, Splay Trees). 
 3. Dynamic optimality conjecture (geometric view, Arboral sets, Wilber's LB, Tango Trees). 
@@ -34,17 +34,17 @@ delaying updates via Buffer Trees).
 12. Tight LB for undirected connectivity (Information-Transfer method). The "Multiphase" Conjecture. 
 
 
-## References: 
+## References
 - Data Structures and Network Algorithms (by R.Tarjan — covers BSTs, splay trees, link-cut trees).
 - Open Data Structures (by P.Morin — covers BSTs, B-trees, hashing, and some integer data structures).
 - Advanced data structures (by Peter Brass. Open access e-book available on the web).
 - Advanced Data Strucutres course at MIT (by Erik Demaine)
 
-## Data Structure Simulator:  
+## Data Structure Simulator
 [https://www.cs.usfca.edu/~galles/visualization/RedBlack.html](https://www.cs.usfca.edu/~galles/visualization)
 
 
-## Logistics:  
+## Logistics
 There will be bi-weekly homeworks (~5-6 in total). Grading will be based on HW (35%), scribing 
 1 lecture (15%) and a final project (50%), which will entail exploring and extending a research 
 paper of your choice (to be discussed and approved by the instructor and the TAs). 
