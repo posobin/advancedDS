@@ -12,7 +12,7 @@ The course will cover data structures in 4 main themes: Integers, Geometry, Grap
 ## Assignments
 Submit to CourseWorks.
 1. [First homework](./advancedDS_hw1.pdf), due February 21st (Thursday) at 6pm.
-2. [Second homework](./advancedDS_hw2.pdf), due March 7th (Thursday) at 6pm.
+2. [Second homework](./advancedDS_hw2.pdf), due March 9th (Thursday) at 11:59pm.
 
 ## Lecture notes
 1. [Lecture 1.](./advancedDS_lec1.pdf)
