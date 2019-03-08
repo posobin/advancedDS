@@ -9,16 +9,21 @@ Location: 963 Schermerhorn Hall Extension.
 The course will cover data structures in 4 main themes: Integers, Geometry, Graphs and Strings 
 (information retrieval). We will spend time on both upper and lower bounds in various memory models.
 
+## Final projects
+[Here](./advancedDS_projects_suggestions.pdf) is the list of suggested final projects.
+
 ## Assignments
 Submit to CourseWorks.
 1. [First homework](./advancedDS_hw1.pdf), due February 21st (Thursday) at 6pm.
-2. [Second homework](./advancedDS_hw2.pdf), due March 9th (Thursday) at 11:59pm.
+2. [Second homework](./advancedDS_hw2.pdf), due March 9th (Saturday) at 11:59pm.
+2. [Third homework](./advancedDS_hw3.pdf), due March 28th (Thursday) at 6pm.
 
 ## Lecture notes
 1. [Lecture 1.](./advancedDS_lec1.pdf)
 2. [Lecture 2.](./advancedDS_lec2.pdf)
 3. [Lecture 3.](./advancedDS_lec3.pdf)
 4. [Lecture 4.](./advancedDS_lec4.pdf)
+5. [Lecture 5.](./advancedDS_lec5.pdf)
 
 ## Syllabus
 1. Introduction (Motivation, DS and memory models, static/dynamic, performance guarantees). 
