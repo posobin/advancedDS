@@ -24,7 +24,7 @@ Submit to CourseWorks.
 3. [Lecture 3.](./advancedDS_lec3.pdf)
 4. [Lecture 4.](./advancedDS_lec4.pdf)
 5. [Lecture 5.](./advancedDS_lec5.pdf)
-6.
+6. [Lecture 6.](./advancedDS_lec6.pdf)
 7. [Lecture 7.](./advancedDS_lec7.pdf)
 
 ## Syllabus
