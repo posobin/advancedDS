@@ -27,6 +27,7 @@ Submit to CourseWorks.
 5. [Lecture 5.](./advancedDS_lec5.pdf)
 6. [Lecture 6.](./advancedDS_lec6.pdf)
 7. [Lecture 7.](./advancedDS_lec7.pdf)
+8. [Lecture 8.](./advancedDS_lec8.pdf)
 9. [Lecture 9.](./advancedDS_lec9.pdf)
 10. [Lecture 10.](./advancedDS_lec10.pdf)
 
