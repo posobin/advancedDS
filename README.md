@@ -12,12 +12,15 @@ The course will cover data structures in 4 main themes: Integers, Geometry, Grap
 ## Final projects
 [Here](./advancedDS_projects_suggestions.pdf) is the list of suggested final projects.
 
+Final projects are due on **Friday, May 10th**.
+
 ## Assignments
 Submit to CourseWorks.
 1. [First homework](./advancedDS_hw1.pdf), due February 21st (Thursday) at 6pm.
 2. [Second homework](./advancedDS_hw2.pdf), due March 9th (Saturday) at 11:59pm.
-2. [Third homework](./advancedDS_hw3.pdf), due March 28th (Thursday) at 6pm.
-2. [Fourth homework](./advancedDS_hw4.pdf), due April 11th (Thursday) at 6pm.
+3. [Third homework](./advancedDS_hw3.pdf), due March 28th (Thursday) at 6pm.
+4. [Fourth homework](./advancedDS_hw4.pdf), due April 11th (Thursday) at 6pm.
+5. [Fifth homework](./advancedDS_hw5.pdf), due May 4th (Saturday) at 6pm.
 
 ## Lecture notes
 1. [Lecture 1.](./advancedDS_lec1.pdf)
