@@ -35,6 +35,7 @@ Submit to CourseWorks.
 10. [Lecture 10.](./advancedDS_lec10.pdf)
 11. [Lecture 11.](./advancedDS_lec11.pdf)
 12. [Lecture 12.](./advancedDS_lec12.pdf)
+13. [Lecture 13.](./advancedDS_lec13.pdf)
 
 ## Syllabus
 1. Introduction (Motivation, DS and memory models, static/dynamic, performance guarantees). 
